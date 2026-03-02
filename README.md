@@ -37,7 +37,7 @@ Inspirado em dados reais da Embrapa, Plano ABC+ e fatores IPCC adaptados ao Bras
   - Bônus de sequestro (plantio direto -0,5 a -1 ton/ha; ILPF -1,5 a -3 ton/ha)
 - Gráficos dinâmicos com **Chart.js** (barras: atual vs. sustentável)
 - Certificado personalizado gerado via HTML/CSS (com vaquinha fofa thumbs up 🐄)
-- Design lovable/kawaii: cores pastel, animações suaves, mascotes adoráveis
+- Design: cores pastel, animações suaves, mascotes
 - Totalmente responsivo (mobile-first) e acessível
 - Offline após carregamento inicial
 
